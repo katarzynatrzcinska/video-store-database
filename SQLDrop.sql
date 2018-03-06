@@ -1,0 +1,13 @@
+DROP TABLE Faktury;
+DROP TABLE Pozycje_wypo¿yczenia;
+DROP TABLE Wypo¿yczenia;
+DROP TABLE Rezerwacje;
+DROP TABLE Pracownicy;
+DROP TABLE Klienci;
+DROP TABLE Osoby;
+DROP TABLE Adresy;
+DROP TABLE Noœniki;
+DROP TABLE Kopie;
+DROP TABLE FilmyGatunki;
+DROP TABLE Filmy;
+DROP TABLE Gatunki;
